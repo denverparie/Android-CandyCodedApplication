@@ -36,10 +36,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="firstIntentDone">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-    </list>
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="firstIntentDone" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602745484877</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="firstIntentDone">
+      <created>1602749239859</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602749239859</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,22 +254,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="109" y="107" width="1146" height="515" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1602745453557" />
-    <state width="786" height="245" key="GridCell.Tab.0.bottom" timestamp="1602748090282">
+    <state width="786" height="245" key="GridCell.Tab.0.bottom" timestamp="1602749162090">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="786" height="245" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602748090282" />
-    <state width="786" height="245" key="GridCell.Tab.0.center" timestamp="1602748090282">
+    <state width="786" height="245" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602749162090" />
+    <state width="786" height="245" key="GridCell.Tab.0.center" timestamp="1602749162090">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="786" height="245" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602748090282" />
-    <state width="786" height="245" key="GridCell.Tab.0.left" timestamp="1602748090282">
+    <state width="786" height="245" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602749162090" />
+    <state width="786" height="245" key="GridCell.Tab.0.left" timestamp="1602749162089">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="786" height="245" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602748090282" />
-    <state width="786" height="245" key="GridCell.Tab.0.right" timestamp="1602748090282">
+    <state width="786" height="245" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602749162089" />
+    <state width="786" height="245" key="GridCell.Tab.0.right" timestamp="1602749162090">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="786" height="245" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602748090282" />
+    <state width="786" height="245" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602749162090" />
     <state x="491" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602744805756">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
