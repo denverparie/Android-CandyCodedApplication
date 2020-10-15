@@ -71,12 +71,15 @@
     </option>
   </component>
   <component name="ProjectId" id="1itvGsiGqYMGMJLxveeFadWEkSu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_S_API_25" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-15T06:09:34.408Z" />
@@ -211,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602749239859</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="firstIntentDone">
+      <created>1602749519102</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602749519102</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,6 +248,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="firstIntentDone" />
     <option name="LAST_COMMIT_MESSAGE" value="firstIntentDone" />
   </component>
@@ -270,9 +281,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="786" height="245" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602749162090" />
-    <state x="491" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602744805756">
+    <state x="491" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602749266297">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="491" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1602744805756" />
+    <state x="491" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1602749266297" />
   </component>
 </project>
