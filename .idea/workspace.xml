@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
@@ -22,11 +27,17 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="firstIntentDone">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602744202960</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="firstIntentDone">
+      <created>1602744692909</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602744692909</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,7 +207,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -208,6 +238,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="109" y="107" width="1146" height="515" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1602742432902" />
+    <state x="109" y="107" width="1146" height="515" key="DiffContextDialog" timestamp="1602745453557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="109" y="107" width="1146" height="515" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1602745453557" />
     <state width="787" height="298" key="GridCell.Tab.0.bottom" timestamp="1602744186920">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -224,9 +258,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="787" height="298" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602744186920" />
-    <state x="491" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602743992593">
+    <state x="491" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602744805756">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="491" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1602743992593" />
+    <state x="491" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1602744805756" />
   </component>
 </project>
